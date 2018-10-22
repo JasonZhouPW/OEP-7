@@ -45,10 +45,10 @@ Returns owner address of the URI name
 
 
 
-#### getOwnedUriCount
+#### getBindedUriCount
 
 ```
-def getUriCount(from_address, network_id)
+def getBindedUriCount(from_address, network_id)
 ```
 
 Returns binded URI count of from address
