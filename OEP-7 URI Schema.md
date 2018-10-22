@@ -35,15 +35,6 @@ networkid is reserved for subchain, 1 is for mainnet.
 
 This should be raise a 'transfer' event with ['00', from_address, uri, network_id]
 
-#### ownerOf
-
-```
-def ownerOf(uri, network_id)
-```
-
-Returns owner address of the URI name
-
-
 
 #### getBindedUriCount
 
