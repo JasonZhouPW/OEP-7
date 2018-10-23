@@ -15,8 +15,6 @@ The OEP-7 Proposal is a standard interface of URI schema,  this standard allows 
 
 ## Specification
 
-All the following address should be base58 format
-
 ### Methods
 
 #### register
