@@ -110,26 +110,6 @@ URI owner renewal URI valid time stamp
 
 
 
-#### releaseURI
-
-```
-def releaseURI(admin_address, uri, network_id)
-```
-
-Release the invalid binded URI
-
-
-
-#### releaseInvalid
-
-```
-def releaseInvalid(admin_address)
-```
-
-Release all invalid URIs
-
-
-
 ### Events
 
 #### transfer
